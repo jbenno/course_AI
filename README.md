@@ -1,3 +1,5 @@
+<sup>[back to Teaching Home](https://github.com/jbenno/teaching)<sup>
+
 # Artificial Intelligence: A Short Introduction
 
 [Video 1: Introduction to Neural Networks](https://www.youtube.com/watch?v=nTp2loPmPdQ)  
@@ -78,3 +80,5 @@ Training AI with bad data:
 
 #### some good books:
 https://datalion.com/best-free-math-books-for-machine-learning/
+
+<sup>***[AI Introduction](/README.md)*** by [Joerg Blumtritt](https://jbenno.net) [@jbenno@mastodon.social](https://mastodon.social/@jbenno) - Other classes I teach: [github.com/jbenno](https://github.com/jbenno/teaching)</sup>
